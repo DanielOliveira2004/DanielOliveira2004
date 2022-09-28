@@ -13,6 +13,6 @@
   <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daniel-Angular" height="40" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
+  <img align="center" alt="Daniel-Angular" height="35" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
 </div>
 
