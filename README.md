@@ -66,7 +66,7 @@ Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo de
 - Integrações com gateways de pagamento
 
 ---
-
+<!--
 ## 💡 Projetos e iniciativas
 
 Gosto de trabalhar em projetos que resolvam problemas reais, automatizem tarefas e melhorem a experiência de quem utiliza o sistema.
@@ -98,7 +98,7 @@ Interesse contínuo em identificar atividades manuais que podem ser simplificada
 > Alguns projetos fazem parte do ambiente corporativo e não possuem repositórios públicos. Informações internas e dados confidenciais permanecem onde devem ficar.
 
 ---
-
+-->
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
