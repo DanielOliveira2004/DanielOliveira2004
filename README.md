@@ -8,11 +8,11 @@ Substitua os campos SEU_USUARIO, SEU_LINKEDIN e SEU_EMAIL.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F4C81,100:38BDF8&height=200&section=header&text=Danimel&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20IT%20Coordinator&descAlignY=60&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F4C81,100:38BDF8&height=200&section=header&text=Daniel%20Oliveira&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=17" />
 
 # 👨‍💻 Desenvolvedor de Software
 
-### Construindo soluções. Evoluindo constantemente. Liderando pelo exemplo.
+### Construindo soluções. Evoluindo constantemente.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
@@ -24,19 +24,15 @@ Substitua os campos SEU_USUARIO, SEU_LINKEDIN e SEU_EMAIL.
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor de software e atualmente atuo como **Coordenador de TI na Faculdade Líbano**.
+Sou desenvolvedor de software e atualmente atuo como **Programador Pleno de TI na Faculdade Líbano**.
 
 Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo desafio de transformar problemas em soluções que realmente façam a diferença.
-
-Além de desenvolver software, também trabalho com organização de demandas, acompanhamento de projetos, evolução de processos e apoio ao desenvolvimento de equipes de tecnologia.
-
-🎓 Graduando em Engenharia de Software.
 
 💻 Experiência com desenvolvimento web, APIs, bancos de dados e integrações.
 
 🧠 Interesse em arquitetura de software, automação, boas práticas e escalabilidade.
 
-🚀 Sempre buscando evoluir tanto na parte técnica quanto na liderança de projetos e pessoas.
+🚀 Sempre buscando evoluir tanto na parte técnica quanto na liderança de projetos.
 
 > Meu objetivo não é apenas fazer o código funcionar, mas entender o problema, construir uma boa solução e torná-la sustentável.
 
@@ -48,7 +44,7 @@ Além de desenvolver software, também trabalho com organização de demandas, a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,nestjs,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,react,html,css,tailwind&theme=dark" />
 
 </div>
 
@@ -56,7 +52,7 @@ Além de desenvolver software, também trabalho com organização de demandas, a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,docker,gcp,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,docker,linux,git,github&theme=dark" />
 
 </div>
 
@@ -64,12 +60,10 @@ Além de desenvolver software, também trabalho com organização de demandas, a
 
 - APIs REST e integrações entre sistemas
 - Angular, RxJS e interfaces reativas
-- Node.js e NestJS
+- Node.js
 - MongoDB e consultas de agregação
-- PostgreSQL, Prisma e Drizzle ORM
 - Docker, infraestrutura e ambientes Linux
 - Integrações com gateways de pagamento
-- Organização de projetos e processos de TI
 
 ---
 
@@ -109,15 +103,7 @@ Interesse contínuo em identificar atividades manuais que podem ser simplificada
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://streak-stats.demolab.com?user=DanielOliveira2004&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -128,8 +114,6 @@ Interesse contínuo em identificar atividades manuais que podem ser simplificada
 - Evolução em arquitetura e engenharia de software.
 - Desenvolvimento de aplicações escaláveis e bem estruturadas.
 - Automação de processos e integrações.
-- Gestão de projetos e organização de demandas de TI.
-- Liderança técnica e desenvolvimento de equipes.
 - Aprendizado contínuo e novos desafios.
 
 ---
@@ -139,8 +123,8 @@ Interesse contínuo em identificar atividades manuais que podem ser simplificada
 Quando não estou resolvendo problemas com tecnologia, gosto de aproveitar alguns outros universos:
 
 - 🎮 Games, especialmente jogos de futebol.
-- ⚽ Cruzeiro Esporte Clube. O coração tem seus próprios requisitos de sistema.
-- 🎬 Filmes, séries e boas histórias.
+- ⚽ Cruzeiro Esporte Clube.
+- 🎬 Filmes, séries.
 - 💻 Hardware, sistemas operacionais e novas tecnologias.
 - 📚 Aprender coisas novas e transformar ideias em projetos.
 
