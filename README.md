@@ -10,8 +10,6 @@ Substitua os campos SEU_USUARIO, SEU_LINKEDIN e SEU_EMAIL.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F4C81,100:38BDF8&height=200&section=header&text=Daniel%20Oliveira&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=17" />
 
-# 👨‍💻 Desenvolvedor de Software
-
 ### Construindo soluções. Evoluindo constantemente.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
@@ -22,7 +20,7 @@ Substitua os campos SEU_USUARIO, SEU_LINKEDIN e SEU_EMAIL.
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
 Sou desenvolvedor de software e atualmente atuo como **Programador Pleno de TI na Faculdade Líbano**.
 
@@ -38,19 +36,19 @@ Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo de
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
-
-### Linguagens e desenvolvimento
+### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
+
+### Linguagens e desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,react,html,css,tailwind&theme=dark" />
 
 </div>
 
-### Bancos de dados e infraestrutura
-
 <div align="center">
+
+### Bancos de dados e infraestrutura
 
 <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,git,github&theme=dark" />
 
@@ -99,7 +97,7 @@ Interesse contínuo em identificar atividades manuais que podem ser simplificada
 
 ---
 -->
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -109,7 +107,7 @@ Interesse contínuo em identificar atividades manuais que podem ser simplificada
 
 ---
 
-## 🌱 Atualmente focado em
+### 🌱 Atualmente focado em
 
 - Evolução em arquitetura e engenharia de software.
 - Desenvolvimento de aplicações escaláveis e bem estruturadas.
@@ -118,7 +116,7 @@ Interesse contínuo em identificar atividades manuais que podem ser simplificada
 
 ---
 
-## 🎮 Um pouco além do código
+### 🎮 Um pouco além do código
 
 Quando não estou resolvendo problemas com tecnologia, gosto de aproveitar alguns outros universos:
 
