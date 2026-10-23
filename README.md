@@ -62,7 +62,7 @@ Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo de
       <td width="33%" valign="top">
         <h3 align="center">💻 CRM</h3>
         <p align="center">
-          Desenvolvimento e evolução de um CRM, com funcionalidades para gestão de processos, dados e fluxos de trabalho.
+          Desenvolvimento de um CRM, com funcionalidades para gestão de processos, dados e fluxos de trabalho.
         </p>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=angular,js,nodejs,mongodb&theme=dark&perline=7" height="28" />
