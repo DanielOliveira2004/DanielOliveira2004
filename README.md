@@ -65,7 +65,7 @@ Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo de
           Desenvolvimento e evolução de um CRM, com funcionalidades para gestão de processos, dados e fluxos de trabalho.
         </p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb&theme=dark&perline=3" height="28" />
+          <img src="https://skillicons.dev/icons?i=angular,js,nodejs,mongodb&theme=dark&perline=7" height="28" />
         </p>
       </td>
       <td width="33%" valign="top">
@@ -74,7 +74,7 @@ Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo de
           Integração com APIs de pagamento, automatização de cobranças e tratamento de erros e status financeiros.
         </p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,ts,postman&theme=dark&perline=3" height="28" />
+          <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,mongodb&theme=dark&perline=7" height="28" />
         </p>
       </td>
       <td width="33%" valign="top">
@@ -83,14 +83,14 @@ Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo de
           Soluções para reduzir tarefas manuais, conectar sistemas e otimizar processos operacionais.
         </p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb&theme=dark&perline=3" height="28" />
+          <img src="https://skillicons.dev/icons?i=angular,js,ts,nodejs,mongodb&theme=dark&perline=7" height="28" />
         </p>
       </td>
     </tr>
   </table>
 </div>
 
-<sub>🔒 Projetos corporativos descritos de forma resumida, preservando informações confidenciais.</sub>
+> <sub>🔒 Projetos corporativos descritos de forma resumida, preservando informações confidenciais.</sub>
 ---
 
 ### 📊 Estatísticas do GitHub
