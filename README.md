@@ -1,12 +1,4 @@
-
-<!--
-README de perfil do GitHub.
-Crie um repositório público com o mesmo nome do seu usuário
-e coloque este conteúdo no README.md.
-Substitua os campos SEU_USUARIO, SEU_LINKEDIN e SEU_EMAIL.
--->
-
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F4C81,100:38BDF8&height=200&section=header&text=Daniel%20Oliveira&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descSize=17" />
 
@@ -44,59 +36,63 @@ Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo de
 
 <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,react,html,css,tailwind&theme=dark" />
 
-</div>
+### Bancos de dados, infraestrutura e ferramentas
 
-<div align="center">
-
-### Bancos de dados e infraestrutura
-
-<img src="https://skillicons.dev/icons?i=mongodb,docker,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,docker,linux,git,github,postman&theme=dark" />
 
 </div>
 
 ### Também trabalho com
 
-- APIs REST e integrações entre sistemas
-- Angular, RxJS e interfaces reativas
-- Node.js
-- MongoDB e consultas de agregação
-- Docker, infraestrutura e ambientes Linux
-- Integrações com gateways de pagamento
+- APIs REST e integrações entre sistemas.
+- Angular, RxJS e interfaces reativas.
+- Node.js e desenvolvimento de serviços backend.
+- MongoDB e consultas de agregação.
+- Docker, infraestrutura e ambientes Linux.
+- Testes, documentação e validação de APIs com Postman.
+- Integrações com gateways de pagamento.
 
 ---
-<!--
-## 💡 Projetos e iniciativas
 
-Gosto de trabalhar em projetos que resolvam problemas reais, automatizem tarefas e melhorem a experiência de quem utiliza o sistema.
+### 🚀 Projetos realizados
 
-### 🎫 Projeto de Ticket
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <h3 align="center">💻 CRM</h3>
+        <p align="center">
+          Desenvolvimento e evolução de um CRM, com funcionalidades para gestão de processos, dados e fluxos de trabalho.
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb&theme=dark&perline=3" height="28" />
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <h3 align="center">💳 Pagar.me</h3>
+        <p align="center">
+          Integração com APIs de pagamento, automatização de cobranças e tratamento de erros e status financeiros.
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,ts,postman&theme=dark&perline=3" height="28" />
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <h3 align="center">⚙️ Automação</h3>
+        <p align="center">
+          Soluções para reduzir tarefas manuais, conectar sistemas e otimizar processos operacionais.
+        </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb&theme=dark&perline=3" height="28" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Helpdesk com fluxos de atendimento e automação.**
-
-Uma ideia de sistema interno para centralizar solicitações de TI e permitir a execução controlada de tarefas recorrentes, com formulários dinâmicos, permissões, aprovações e processamento assíncrono.
-
-`NestJS` `MongoDB` `TypeScript`
-
-### 🚀 Projeto Influ
-
-**Desenvolvimento e evolução de soluções para gestão de influenciadores.**
-
-Trabalho envolvendo formulários, integrações, gestão de informações, fluxos de projetos e melhorias na experiência dos usuários.
-
-`Angular` `Node.js` `MongoDB`
-
-### ⚙️ Automação e melhoria de processos
-
-**Menos tarefas repetitivas, mais eficiência.**
-
-Interesse contínuo em identificar atividades manuais que podem ser simplificadas por meio de software, integrações e processos bem definidos.
-
-`APIs` `Integrações` `Automação`
-
-> Alguns projetos fazem parte do ambiente corporativo e não possuem repositórios públicos. Informações internas e dados confidenciais permanecem onde devem ficar.
-
+<sub>🔒 Projetos corporativos descritos de forma resumida, preservando informações confidenciais.</sub>
 ---
--->
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -112,17 +108,18 @@ Interesse contínuo em identificar atividades manuais que podem ser simplificada
 - Evolução em arquitetura e engenharia de software.
 - Desenvolvimento de aplicações escaláveis e bem estruturadas.
 - Automação de processos e integrações.
+- Aprimoramento de habilidades técnicas e de liderança.
 - Aprendizado contínuo e novos desafios.
 
 ---
 
 ### 🎮 Um pouco além do código
 
-Quando não estou resolvendo problemas com tecnologia, gosto de aproveitar alguns outros universos:
+Quando não estou resolvendo problemas com tecnologia, gosto de explorar outros universos:
 
 - 🎮 Games, especialmente jogos de futebol.
 - ⚽ Cruzeiro Esporte Clube.
-- 🎬 Filmes, séries.
+- 🎬 Filmes e séries.
 - 💻 Hardware, sistemas operacionais e novas tecnologias.
 - 📚 Aprender coisas novas e transformar ideias em projetos.
 
