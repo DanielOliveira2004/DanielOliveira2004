@@ -4,7 +4,6 @@
 
 ### Construindo soluções. Evoluindo constantemente.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielOliveira2004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.soliveira2004@gmail.com)
 
@@ -52,45 +51,6 @@ Minha trajetória é movida pela curiosidade, pela vontade de aprender e pelo de
 - Testes, documentação e validação de APIs com Postman.
 - Integrações com gateways de pagamento.
 
----
-
-### 🚀 Projetos realizados
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" valign="top">
-        <h3 align="center">💻 CRM</h3>
-        <p align="center">
-          Desenvolvimento de um CRM, com funcionalidades para gestão de processos, dados e fluxos de trabalho.
-        </p>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=angular,js,nodejs,mongodb&theme=dark&perline=7" height="28" />
-        </p>
-      </td>
-      <td width="33%" valign="top">
-        <h3 align="center">💳 Pagar.me</h3>
-        <p align="center">
-          Integração com APIs de pagamento, automatização de cobranças e tratamento de erros e status financeiros.
-        </p>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=angular,react,js,ts,nodejs,mongodb&theme=dark&perline=7" height="28" />
-        </p>
-      </td>
-      <td width="33%" valign="top">
-        <h3 align="center">⚙️ Automação</h3>
-        <p align="center">
-          Soluções para reduzir tarefas manuais, conectar sistemas e otimizar processos operacionais.
-        </p>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=angular,js,ts,nodejs,mongodb&theme=dark&perline=7" height="28" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-> <sub>🔒 Projetos corporativos descritos de forma resumida, preservando informações confidenciais.</sub>
 ---
 
 ### 📊 Estatísticas do GitHub
